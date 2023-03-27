@@ -26,7 +26,7 @@ Welcome to iDragon Adventures! Jumping Jax is a simple game that you can play in
 - The game features background music and sound effects.
 
 # Screenshots
-![image](https://user-images.githubusercontent.com/79343575/227896597-e1c9d928-debe-41bf-a93f-1dbae6602580.png)
+![image](https://user-images.githubusercontent.com/79343575/227901335-74b08605-fc34-4eb5-a8e9-f9bbd44f5625.png)
 
 
 # Getting Started

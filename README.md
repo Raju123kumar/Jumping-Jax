@@ -38,5 +38,5 @@ Simply open the index.html file in your web browser to start the game.
 # Credits
 HTML, CSS, and JavaScript code by Raju Kumar (https://github.com/Raju123kumar).
 
-
+# Thank You :) 
 <bold>Feel free to modify and distribute this game as you wish. Have fun playing Jumping Jax! 🔥</bold>

@@ -33,7 +33,7 @@ Welcome to iDragon Adventures! Jumping Jax is a simple game that you can play in
 You can download or clone the repository to your local machine to play the game. 
 Simply open the index.html file in your web browser to start the game.
 
-- git clone https://github.com/your-username/jumping-jax.git
+    git clone https://github.com/Raju123kumar/jumping-jax.git
 
 # Credits
 HTML, CSS, and JavaScript code by Raju Kumar (https://github.com/Raju123kumar).

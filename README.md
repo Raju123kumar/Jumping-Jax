@@ -1,6 +1,6 @@
-# Jumping Jax :- Dragon Vs Dino Game
+# Jumping Jax :- Dragon 🐉 Vs Dino Game 🦖
 
-Welcome to iDragon Adventures! Jumping Jax is a simple game that you can play in your web browser. The goal of the game is to help Jax(the dragon), jump over obstacles (dino) and score points. The game features a single player mode where you can control Jax's movements using the arrow keys on your keyboard.
+Welcome to iDragon Adventures! Jumping Jax is a simple game that you can play in your web browser. The goal of the game is to help Jax(the dino), jump over obstacles (dragon ) and score points. The game features a single player mode where you can control Jax's movements using the arrow keys on your keyboard.
 
 # Technologies Used
 - HTML
@@ -11,7 +11,7 @@ Welcome to iDragon Adventures! Jumping Jax is a simple game that you can play in
 
 - Clone the repository to your local machine.
 - Open the <i>index.html</i> file in your web browser.
-- Press the <b>'START'</b> button to begin playing.
+- <b>refresh'</b> the website to begin playing.
 - Use the up arrow key to make Jax jump over obstacles.
 - Use the right and left arrow keys to move Jax right and left, respectively.
 - Try to score as many points as possible without crashing into obstacles.
@@ -39,7 +39,4 @@ Simply open the index.html file in your web browser to start the game.
 HTML, CSS, and JavaScript code by Raju Kumar (https://github.com/Raju123kumar).
 
 
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Feel free to modify and distribute this game as you wish. Have fun playing Jumping Jax!
+<bold>Feel free to modify and distribute this game as you wish. Have fun playing Jumping Jax! 🔥</bold>

@@ -7,7 +7,7 @@ HTML
 CSS
 JavaScript
 
-#How to Play
+# How to Play
 
 Clone the repository to your local machine.
 Open the <i>index.html</i> file in your web browser.
@@ -16,7 +16,7 @@ Use the up arrow key to make Jax jump over obstacles.
 Use the right and left arrow keys to move Jax right and left, respectively.
 Try to score as many points as possible without crashing into obstacles.
 
-#Game Mechanics
+# Game Mechanics
 
 Jax automatically moves forward on his own.
 Pressing the up arrow key makes Jax jump over obstacles.
@@ -25,11 +25,11 @@ Hitting an obstacle ends the game.
 The score increases as Jax successfully jumps over obstacles.
 The game features background music and sound effects.
 
-#Screenshots
+# Screenshots
 ![image](https://user-images.githubusercontent.com/79343575/227896597-e1c9d928-debe-41bf-a93f-1dbae6602580.png)
 
 
-#Getting Started
+# Getting Started
 You can download or clone the repository to your local machine to play the game. Simply open the index.html file in your web browser to start the game.
 
 git clone https://github.com/your-username/jumping-jax.git
@@ -38,7 +38,7 @@ git clone https://github.com/your-username/jumping-jax.git
 HTML, CSS, and JavaScript code by Raju Kumar (https://github.com/Raju123kumar).
 
 
-#License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Feel free to modify and distribute this game as you wish. Have fun playing Jumping Jax!
